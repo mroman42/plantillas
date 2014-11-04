@@ -1,0 +1,4 @@
+# Ignoring pdftex auxiliar files
+*.aux
+*.log
+*.backup
