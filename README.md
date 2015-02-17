@@ -8,3 +8,4 @@ escribir código y ecuaciones.
  * **Trabajos:** Plantilla para tareas de matemáticas y apuntes.
  * **Presentación:** Plantilla para las presentaciones de diapositivas.
  * **Memoria:** Plantilla para memorias de prácticas y trabajos.
+ * **Libro:** Plantilla para un documento extenso, con capítulos, imágenes y ecuaciones.
