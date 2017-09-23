@@ -9,3 +9,5 @@ escribir código y ecuaciones.
  * **Presentación:** Plantilla para las presentaciones de diapositivas.
  * **Memoria:** Plantilla para memorias de prácticas y trabajos.
  * **Libro:** Plantilla para un documento extenso, con capítulos, imágenes y ecuaciones.
+
+Puedes encontrar más plantillas de Latex en: https://github.com/andreshp/LatexTemplates.
